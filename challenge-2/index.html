@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade Generator</title>
+</head>
+<body>
+    <div class="container"></div>
+    <h1>Student Grade Generator</h1>
+    <div>
+        <label for="HTMLMarks">HTML Marks:</label>
+        <input type="number" id="HTMLMarks" min="0" max="100">
+    </div>
+
+    <div>
+        <label for="js">JavaScript Marks:</label>
+        <input type="number" id="jsMarks" min="0" max="100">
+    </div>
+    
+    <div>
+        <label for="ReactMarks">React Marks</label>
+        <input type="number" id=" = React Marks" >
+    </div>
+
+    <div>
+        <label for="rubyMarks">Ruby Marks</label>
+        <input type="number" id="rubyMarks" min="0" max="100">
+    </div>
+    <button onclick="gradeCalulator()">Calculate Percentage</button>
+    <div id="result"></div>
+    <script src="generator.js"></script>
+</body>
+</html>
