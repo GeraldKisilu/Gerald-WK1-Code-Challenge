@@ -1,7 +1,7 @@
 # CODE CHALLENGE (WEEK ONE)
 
 ## AUTHOR
-[Gerald Kisilu](github.com/GeraldKisilu/Gerald-WK1-Code-hallenge)
+[Gerald Kisilu](https://geraldkisilu.github.io/Gerald-WK1-Code-Challenge/)
 
 ## Description
 ### Challenge 1
@@ -27,7 +27,7 @@ The calculateNSSFDeductions function calculated the NSSF deductions based on the
 The calculateNetSalary function took in the basic salary and benefits, and I used it to calculate the gross salary, payee, NHIF deductions, NSSF deductions, and finally the net salary. It called the above helper functions to compute each component.
 
 ## Live Site
-github.com/GeraldKisilu/Gerald-WK1-Code-hallenge
+https://geraldkisilu.github.io/Gerald-WK1-Code-Challenge/
 
 ## Technology Used
 1. HTML
@@ -36,7 +36,7 @@ github.com/GeraldKisilu/Gerald-WK1-Code-hallenge
 4. Github
 
 ## Contact Infromation
-You can reah me on https://github.com/GeraldKisilu
+You can reach me on https://github.com/GeraldKisilu
 
 ## License 
 MIT LICENSE
